@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JGu GeoQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_asia">The capital of China is Shanghai</string>
+    <string name="question_america">Denver is in Colorado</string>
+    <string name="question_world">Europe is a continent</string>
+    <string name="question_jeff">Is Jeff cool?</string>
+    <string name="question_utsarga">Is Utsarga cool?</string>
+    <string name="question_china">Harbin is in Haikou</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show answer!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+
+</resources>
